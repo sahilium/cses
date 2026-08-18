@@ -1,11 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
+typedef long long ll;
 
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    long long n;
+    ll n;
     cin >> n;
 
     while (n != 1) {
